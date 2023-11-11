@@ -1,6 +1,8 @@
 # Adaptive-iOS-and-Swift-expert
 Adaptive iOS and Swift expert in open source projects.
 
+Only chatGPT premium users : https://chat.openai.com/g/g-SKjLqq7bX-adaptive-ios-and-swift-expert 
+
 MIT License
 
 Copyright (c) 2023 Adaptive-iOS-and-Swift-expert
